@@ -5,4 +5,4 @@ It has location support and the live weather conditions and forecasts.
 
 ![alt text](Screenshot_20210225_181139_com.google.android.permissioncontroller.jpg)
 
-![alt text]()
+![alt text](Screenshot_20210225_181203_com.example.weatherapp.jpg)
